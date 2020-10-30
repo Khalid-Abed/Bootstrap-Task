@@ -1,0 +1,9 @@
+img{
+    height: 500px;
+
+}
+@media screen and (max-width: 480px) {
+    .khaled{
+     background-color: lightgreen;
+   }
+}
